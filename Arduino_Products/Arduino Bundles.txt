@@ -1,0 +1,18 @@
+This bundle covers all the fundamentals of Electrical Engineering and the arduino C++/C based programmming language
+
+Bundle Includes: 11 Example programs
+
+* Analog Modules
+* Button Module 
+* Digital Write()
+* GY_521 Gyroscope Module
+* Motor Module
+* Photoresister Module 
+* Potentiometer Module 
+* Radio RF Reciever Module
+* Radio RF Transmitter Module 
+* Serial Communication
+* Digital Read Sample
+
+* Arduino Libraries cheat sheet
+

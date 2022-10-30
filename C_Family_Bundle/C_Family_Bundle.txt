@@ -1,0 +1,14 @@
+This bundle covers the entire C family: C/C++/C# This bundle primarily focuses on the C++
+Language, although it does contain a series of beggniner friendly guides to picking up the 
+C and C# programming language 
+
+Bundle Includes:
+
+* C Intro Cheat Sheet Guides
+* C++ Intro Cheat Sheet Guides
+* C++ Advanced Material
+* C# Intro Cheat Sheet Guides 
+* C++ Library Cheet Sheet
+* 5 example C++ Programs
+* 14 example C# programs 
+* 1 large C program on how to create a teminal based text editor (Vim simulator)
