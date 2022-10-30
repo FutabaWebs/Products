@@ -1,0 +1,11 @@
+This bundle covers all of the bare bone fundamentals of Python3 programming, as well as gray hat and black hat python, with thorough
+coursework documentation, as well as an inclusion on the PYQT5 framework, as well as an entire collection of any and all Python3 scripts shown 
+on my site. Cheat sheets, even cheat sheets on the many libraries for ethical hacking with python with examples are included as well
+
+
+Bundle Includes:
+
+* Gray-Hat Python Resources
+* Black-Hat Python Resources
+* Python3 Bundle
+* Python3 Script Bundle

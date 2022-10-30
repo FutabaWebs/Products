@@ -1,0 +1,10 @@
+This bundle covers all the bare bone basics of the C++ Programming language, as well example programs and cheat sheet guides on how to 
+use the Win32_API for ethical manipulation of the win32_api
+
+Bundle Includes:
+
+* C-Family Bundle
+* Win32_API Major Cheat Sheet
+* Win32_API Scripts
+* Example Win32_API programs
+ 

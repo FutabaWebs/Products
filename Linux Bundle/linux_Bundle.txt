@@ -1,0 +1,10 @@
+This bundle covers the essential basics on how to use the debian linux terminal command line,
+as well as other resoruces on bash shell scripting for begginners, and example programs
+
+Package includes:
+
+* Basic Commands in Bash Cheat Sheet 
+* Intro to Bash Shell Scripting Cheat Sheet
+* 13 more cheat sheets that cover more commands with examples and usages in linux 
+* 12 example programs that give you a clear example on both how to chain Linux commands with it's native scripting language
+
